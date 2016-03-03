@@ -1,0 +1,6 @@
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\09.CustomListT\bin\Debug\09.CustomListT.exe.config
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\09.CustomListT\bin\Debug\09.CustomListT.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\09.CustomListT\bin\Debug\09.CustomListT.pdb
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\09.CustomListT\obj\Debug\09.CustomListT.csprojResolveAssemblyReference.cache
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\09.CustomListT\obj\Debug\09.CustomListT.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\09.CustomListT\obj\Debug\09.CustomListT.pdb

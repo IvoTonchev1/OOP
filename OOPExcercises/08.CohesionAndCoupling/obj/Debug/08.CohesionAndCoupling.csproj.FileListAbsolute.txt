@@ -1,0 +1,6 @@
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\08.CohesionAndCoupling\bin\Debug\08.CohesionAndCoupling.exe.config
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\08.CohesionAndCoupling\bin\Debug\08.CohesionAndCoupling.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\08.CohesionAndCoupling\bin\Debug\08.CohesionAndCoupling.pdb
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\08.CohesionAndCoupling\obj\Debug\08.CohesionAndCoupling.csprojResolveAssemblyReference.cache
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\08.CohesionAndCoupling\obj\Debug\08.CohesionAndCoupling.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\08.CohesionAndCoupling\obj\Debug\08.CohesionAndCoupling.pdb

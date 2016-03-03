@@ -1,0 +1,6 @@
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\07.Battleships\bin\Debug\07.Battleships.exe.config
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\07.Battleships\obj\Debug\07.Battleships.csprojResolveAssemblyReference.cache
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\07.Battleships\bin\Debug\07.Battleships.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\07.Battleships\bin\Debug\07.Battleships.pdb
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\07.Battleships\obj\Debug\07.Battleships.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\07.Battleships\obj\Debug\07.Battleships.pdb

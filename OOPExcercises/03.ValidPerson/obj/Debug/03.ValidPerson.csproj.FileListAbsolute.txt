@@ -1,0 +1,6 @@
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\03.ValidPerson\bin\Debug\03.ValidPerson.exe.config
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\03.ValidPerson\bin\Debug\03.ValidPerson.exe
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\03.ValidPerson\bin\Debug\03.ValidPerson.pdb
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\03.ValidPerson\obj\Debug\03.ValidPerson.csprojResolveAssemblyReference.cache
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\03.ValidPerson\obj\Debug\03.ValidPerson.exe
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\03.ValidPerson\obj\Debug\03.ValidPerson.pdb

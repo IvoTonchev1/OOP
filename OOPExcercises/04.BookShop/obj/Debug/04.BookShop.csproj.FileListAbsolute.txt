@@ -1,0 +1,6 @@
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\04.BookShop\bin\Debug\04.BookShop.exe.config
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\04.BookShop\bin\Debug\04.BookShop.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\04.BookShop\bin\Debug\04.BookShop.pdb
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\04.BookShop\obj\Debug\04.BookShop.csprojResolveAssemblyReference.cache
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\04.BookShop\obj\Debug\04.BookShop.exe
+C:\Users\Nitro\Documents\Visual Studio 2013\Projects\OOPExcercises\04.BookShop\obj\Debug\04.BookShop.pdb

@@ -1,0 +1,6 @@
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\01.DefineClassDog\bin\Debug\01.DefineClassDog.exe.config
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\01.DefineClassDog\bin\Debug\01.DefineClassDog.exe
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\01.DefineClassDog\bin\Debug\01.DefineClassDog.pdb
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\01.DefineClassDog\obj\Debug\01.DefineClassDog.csprojResolveAssemblyReference.cache
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\01.DefineClassDog\obj\Debug\01.DefineClassDog.exe
+c:\users\nitro\documents\visual studio 2013\Projects\OOPExcercises\01.DefineClassDog\obj\Debug\01.DefineClassDog.pdb
